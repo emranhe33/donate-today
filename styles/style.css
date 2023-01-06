@@ -19,7 +19,8 @@
     font-size: 20px;
 
 }
-section{
+
+section {
     margin-top: 50px;
     margin: 30px;
 }
@@ -150,6 +151,7 @@ hr {
     background-color: #f5e4e4;
     ;
 }
+
 #item-a:hover {
     background-color: #106e79bb;
 }
@@ -161,5 +163,54 @@ hr {
 
 #item-c:hover {
     background-color: #df7070;
-    ;
+
+}
+
+/* How to Contribute?   */
+
+
+
+.contribute {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    column-gap: 30px;
+
+}
+
+
+.contribute-title {}
+
+
+.contribute-description {}
+
+.contribute-img {
+    width: 800px;
+}
+
+/* Get My Updates */
+
+.form {
+    text-align: center;
+    padding: 60px;
+    background-color: #FFF4D6;
+
+}
+
+#i-form {
+    height: 51px;
+    width: 250px;
+}
+
+
+/* Be Humble  */
+
+.Be-Humble{
+    background-color: black;
+
+
+
+color: #FF5959;
+
 }
