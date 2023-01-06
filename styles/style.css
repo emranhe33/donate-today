@@ -76,6 +76,12 @@
     margin-top: 40px;
 
 }
+.item:hover{
+    background-color: #FF5959;
+}
+#now:hover{
+    background-color: #FF5959;
+}
 
 .item {
     font-weight: 700;
@@ -85,5 +91,21 @@
     border-radius: 8px;
 }
 #now{
-    background-color: #FF5959;
+    background-color: #f8acacc7;
 }
+
+/* other-money  */
+
+.other-money{
+    text-align: center;
+    margin-top: 80px;
+}
+.other-money > p{
+    margin: 0;
+}
+hr{
+    width: 500px;
+    margin-top: 0;
+}
+
+/* Our Donate Plan  */
